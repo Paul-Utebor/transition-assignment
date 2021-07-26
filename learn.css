@@ -1,0 +1,106 @@
+#name{color: red;
+text-align: center;
+font-size: 70px;
+background-color: black;
+margin-top: -10px;
+}
+#contact{
+color:blue
+}
+#navbar{display: flex;
+    width: 90%;
+    justify-content: space-between;
+}
+.navbar{ 
+    
+    list-style-type: none;
+    font-size: 50px;
+}
+#allign{display:flex; width: 95%;
+    justify-content: space-between;
+}
+.allign{margin-inline-end: 120px;}
+
+.welcome{
+width: 400px;
+margin-left: 10px;
+margin-top: 40px;
+font-size: 30px;
+color: rgb(200, 255, 0);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{ width: 100%; margin: 0;
+    background-color: darkslategrey;
+
+}
+Div h1{ width: 70%}
+#work .skill{ width: 50%;}
+form{margin: 20px;
+    padding: 10px;
+    margin-right: 6px;
+    margin-top: 3px;
+}
+.work{ 
+    text-align: center;
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 40px;
+    font-size: 30px;
+    color: rgb(217, 255, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    float:after; 
+    background-color: darkslategrey;
+    }
+    h1{ width: 100%;}
+.title{
+    color: rgb(255, 255, 255);
+}
+.skill{margin: 10px;
+font-size: 30px;
+text-align: center;
+}
+h1{text-align: center;}
+#Contact{height: 370px; width: 250px;
+    background-color: blue;
+    padding: 10px;
+    margin:10px;
+    font-size: 30px;
+color: rgb(0, 0, 0);
+}
+.one{max-width: 300px;
+   height: 70px; 
+   margin: 10px;
+   border-radius: 50px;
+}
+#facebook{position: static;
+color: blanchedalmond;
+padding-left: 30px;
+}
+
+    }
+
+.botton {margin-left: 10px;
+font-size: 100px;  size: 30px; background-color: rgb(238, 255, 0); color: darkkhaki;
+transition-property: background;
+transition-duration: 3s;
+}
+.botton:hover {
+    background: darkgreen;
+}
+.box{background: darkolivegreen;
+width: 100px;
+height: 100px;
+margin-left: 20px;
+transition-property: background;
+transition-duration: 3s;
+}
+.box:hover {
+    background: rgb(255, 238, 0);
+    border-radius: 50%;
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;}
